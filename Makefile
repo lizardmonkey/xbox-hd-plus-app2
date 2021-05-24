@@ -1,4 +1,4 @@
-XBE_TITLE = xbox-hdplus2
+XBE_TITLE = lvgl-xbox
 GEN_XISO = $(XBE_TITLE).iso
 NXDK_DIR ?= $(CURDIR)/../nxdk
 NXDK_SDL = y
