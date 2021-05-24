@@ -1,5 +1,6 @@
 XBE_TITLE = xbox-hdplus2
 GEN_XISO = $(XBE_TITLE).iso
+NXDK_DIR ?= $(CURDIR)/../nxdk
 NXDK_SDL = y
 NXDK_CXX = y
 NXDK_NET = y
